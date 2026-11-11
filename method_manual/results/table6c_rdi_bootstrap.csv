@@ -1,0 +1,4 @@
+"pair","point","median","lo","hi"
+"Tmax vs Tmin",0.32,0.32,0.12,0.56
+"Tmax vs Twmax",0.08,0.2,0.079,0.44
+"Tmin vs Twmax",0.32,0.36,0.12,0.64

@@ -1,0 +1,13 @@
+"metric","pair","RDI","spearman","kendall"
+"sev_per_yr","Tmax vs Tmin",0.32,0.79,0.64
+"sev_per_yr","Tmax vs Twmax",0.08,0.98,0.91
+"sev_per_yr","Tmin vs Twmax",0.32,0.79,0.64
+"rate","Tmax vs Tmin",0.2,0.92,0.81
+"rate","Tmax vs Twmax",0.28,0.83,0.69
+"rate","Tmin vs Twmax",0.4,0.7,0.51
+"mean_int","Tmax vs Tmin",0.76,-0.12,-0.07
+"mean_int","Tmax vs Twmax",0.72,0.09,0.11
+"mean_int","Tmin vs Twmax",0.64,0.02,0.02
+"mean_dur","Tmax vs Tmin",0.56,0.37,0.29
+"mean_dur","Tmax vs Twmax",0.64,0.15,0.11
+"mean_dur","Tmin vs Twmax",0.48,0.39,0.38
